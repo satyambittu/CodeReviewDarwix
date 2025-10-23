@@ -6,7 +6,7 @@ AI Code Review Pro is a powerful, extensible CLI tool and GitHub Action that aut
 
 ## 🛠️ Features
 
-* **Modular Architecture**: Core engine, CLI layer, plugin system and output handlers are decoupled.
+* **Modular Architecture**: Core engine, CLI layer, plugin system and output handlers are decoupled
 * **Multi-Language Support**: JavaScript, TypeScript, Python, Go, Rust, Java (easily extendable).
 * **Plugin System**: Write and share custom linting and style rules.
 * **Flexible Outputs**: Terminal, JSON, HTML, Markdown report formats.
